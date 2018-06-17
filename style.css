@@ -1,0 +1,10 @@
+/* Started adding CSS styling, but stopped after realizing that it wasn't linking in html */
+
+.body {
+    background-image: url("/liberty-bell.jpg");
+}
+
+.button {
+    float: left;
+    clear: both;
+}
